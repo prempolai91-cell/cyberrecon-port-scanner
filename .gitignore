@@ -1,0 +1,4 @@
+scan_results.txt
+scan_results.csv
+__pycache__/
+*.pyc
