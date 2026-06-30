@@ -1,0 +1,2 @@
+[OPEN] Port 135 (epmap)
+[OPEN] Port 445 (microsoft-ds)
